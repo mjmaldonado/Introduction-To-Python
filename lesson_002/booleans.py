@@ -56,5 +56,5 @@ print("False and False:", False and False)
 print("True and True and True:", True and True and True)
 print("True and True and False:", True and True and False)
 
-# We can do t his all day, but we won't.
+# We can do this all day, but we won't.
 # Moving on ...
